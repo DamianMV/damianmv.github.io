@@ -251,17 +251,30 @@
       <link>https://damianmv.github.io/publications/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://damianmv.github.io/publications/</guid>
-      <description>&lt;p&gt;My research centers on the relationship between truth and explanation in Kant’s &lt;em&gt;Critique of Pure Reason&lt;/em&gt;. I am working on three major projects: one on Kant’s theory of truth, one on the nature of the categories, and one on his attitude toward explanatory regresses. Papers in progres include (please email me for a draft)&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;A reading of Kant&amp;rsquo;s transcendental deduction as a theory of truth.&lt;/li&gt;
-&lt;li&gt;An account of the formal structure of Kant&amp;rsquo;s resolution to the Antinomy of Pure Reason.&lt;/li&gt;
-&lt;li&gt;An argument that Kant&amp;rsquo;s categories are second-order concepts.&lt;/li&gt;
-&lt;li&gt;An account of the logic of Kant&amp;rsquo;s Metaphysical Deduction.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h1 id=&#34;publications&#34;&gt;Publications&lt;/h1&gt;
-&lt;ul&gt;
-&lt;li&gt;
-&lt;p&gt;Kant on the Dual Grounding of Possibility. &lt;em&gt;Kantian Review&lt;/em&gt; 1-19. forthcoming. &lt;a href=&#34;https://philpapers.org/rec/MELKOT&#34;&gt;[PhilPapers]&lt;/a&gt; &lt;a href=&#34;https://www.cambridge.org/core/journals/kantian-review/article/kant-on-the-dual-grounding-of-possibility/F5CAC5DD89F1D49D4F3E7AE27A2389E1&#34;&gt;[Published]&lt;/a&gt;&lt;/p&gt;</description>
+      <description>&lt;style&gt;
+.publication {
+  margin-bottom: 1.5em;
+}
+.pub-title {
+  font-weight: bold;
+}
+.pub-links {
+  font-size: 0.95em;
+  margin-top: 0.2em;
+}
+.pub-links a {
+  text-decoration: none;
+  color: var(--link-color, #0366d6);
+}
+.pub-links a:hover {
+  text-decoration: underline;
+}
+details {
+  margin-top: 0.4em;
+  margin-bottom: 0.4em;
+}
+&lt;/style&gt;
+&lt;p&gt;My research centers on the relationship between truth and explanation in Kant’s &lt;em&gt;Critique of Pure Reason&lt;/em&gt;. I am working on three major projects: one on Kant’s theory of truth, one on the nature of the categories, and one on his attitude toward explanatory regresses. Papers in progres include (please email me for a draft)&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
