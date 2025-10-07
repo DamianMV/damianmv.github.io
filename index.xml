@@ -24,11 +24,11 @@
 &lt;p&gt;&lt;a href=&#34;mailto:dem400@nyu.edu&#34;&gt;dem400@nyu.edu&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
-      <title></title>
+      <title>Curriculum Vitae</title>
       <link>https://damianmv.github.io/cv/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://damianmv.github.io/cv/</guid>
-      <description>&lt;h1 id=&#34;employment&#34;&gt;Employment&lt;/h1&gt;
+      <description>&lt;h2 id=&#34;employment&#34;&gt;Employment&lt;/h2&gt;
 &lt;table&gt;
 &lt;tbody&gt;
 &lt;tr&gt;
@@ -41,7 +41,7 @@
 &lt;/tr&gt;        
 &lt;/tbody&gt;
 &lt;/table&gt;
-&lt;h1 id=&#34;education&#34;&gt;Education&lt;/h1&gt;
+&lt;h2 id=&#34;education&#34;&gt;Education&lt;/h2&gt;
 &lt;table&gt;
 &lt;tbody&gt;
 &lt;tr&gt;
@@ -66,7 +66,7 @@
 &lt;/tr&gt;        
 &lt;/tbody&gt;
 &lt;/table&gt;
-&lt;h1 id=&#34;research-areas&#34;&gt;Research Areas&lt;/h1&gt;
+&lt;h2 id=&#34;research-areas&#34;&gt;Research Areas&lt;/h2&gt;
 &lt;table&gt;
 &lt;tbody&gt;
 &lt;tr&gt;
@@ -79,7 +79,7 @@
 &lt;/tr&gt;        
 &lt;/tbody&gt;
 &lt;/table&gt;
-&lt;h1 id=&#34;articles-and-book-chapters&#34;&gt;Articles and book chapters&lt;/h1&gt;
+&lt;h2 id=&#34;articles-and-book-chapters&#34;&gt;Articles and book chapters&lt;/h2&gt;
 &lt;table&gt;
   &lt;tbody&gt;
     &lt;tr&gt;
@@ -112,7 +112,7 @@
     &lt;/tr&gt;
   &lt;/tbody&gt;
 &lt;/table&gt;
-&lt;h1 id=&#34;book-reviews&#34;&gt;Book reviews&lt;/h1&gt;
+&lt;h2 id=&#34;book-reviews&#34;&gt;Book reviews&lt;/h2&gt;
 &lt;table&gt;
   &lt;tbody&gt;
     &lt;tr&gt;
@@ -129,7 +129,7 @@
     &lt;/tr&gt;
   &lt;/tbody&gt;
 &lt;/table&gt;
-&lt;h1 id=&#34;presentations&#34;&gt;Presentations&lt;/h1&gt;
+&lt;h2 id=&#34;presentations&#34;&gt;Presentations&lt;/h2&gt;
 &lt;table&gt;
   &lt;tbody&gt;
     &lt;tr&gt;
@@ -198,7 +198,7 @@
     &lt;/tr&gt;
   &lt;/tbody&gt;
 &lt;/table&gt;
-&lt;h1 id=&#34;invited-comments&#34;&gt;Invited Comments&lt;/h1&gt;
+&lt;h2 id=&#34;invited-comments&#34;&gt;Invited Comments&lt;/h2&gt;
 &lt;table&gt;
   &lt;tbody&gt;
     &lt;tr&gt;
@@ -251,7 +251,7 @@
     &lt;/tr&gt;
   &lt;/tbody&gt;
 &lt;/table&gt;
-&lt;h1 id=&#34;teaching-experience&#34;&gt;Teaching Experience&lt;/h1&gt;
+&lt;h2 id=&#34;teaching-experience&#34;&gt;Teaching Experience&lt;/h2&gt;
 &lt;table&gt;
   &lt;tbody&gt;
     &lt;tr&gt;
@@ -376,7 +376,7 @@
     &lt;/tr&gt;
   &lt;/tbody&gt;
 &lt;/table&gt;
-&lt;h2 id=&#34;undergraduate-supervision&#34;&gt;Undergraduate Supervision&lt;/h2&gt;
+&lt;h3 id=&#34;undergraduate-supervision&#34;&gt;Undergraduate Supervision&lt;/h3&gt;
 &lt;table&gt;
   &lt;tbody&gt;
     &lt;tr&gt;
@@ -397,7 +397,7 @@
     &lt;/tr&gt;
   &lt;/tbody&gt;
 &lt;/table&gt;
-&lt;h1 id=&#34;awards&#34;&gt;Awards&lt;/h1&gt;
+&lt;h2 id=&#34;awards&#34;&gt;Awards&lt;/h2&gt;
 &lt;table&gt;
   &lt;tbody&gt;
     &lt;tr&gt;
@@ -450,7 +450,7 @@
     &lt;/tr&gt;
   &lt;/tbody&gt;
 &lt;/table&gt;
-&lt;h1 id=&#34;other-academic-involvement&#34;&gt;Other Academic Involvement&lt;/h1&gt;
+&lt;h2 id=&#34;other-academic-involvement&#34;&gt;Other Academic Involvement&lt;/h2&gt;
 &lt;table&gt;
   &lt;tbody&gt;
     &lt;tr&gt;
@@ -473,14 +473,41 @@
 &lt;/table&gt;</description>
     </item>
     <item>
-      <title></title>
+      <title>Resarch</title>
+      <link>https://damianmv.github.io/publications/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://damianmv.github.io/publications/</guid>
+      <description>&lt;style&gt;
+.publication {
+  margin-bottom: 1.5em;
+}
+.pub-title {
+  font-weight: bold;
+}
+.pub-links {
+  font-size: 0.95em;
+  margin-top: 0.2em;
+}
+.pub-links a {
+  text-decoration: none;
+  color: var(--link-color, #0366d6);
+}
+.pub-links a:hover {
+  text-decoration: underline;
+}
+details {
+  margin-top: 0.4em;
+  margin-bottom: 0.4em;
+}
+&lt;/style&gt;
+&lt;p&gt;My research centers on the relationship between truth and explanation in Kant’s &lt;em&gt;Critique of Pure Reason&lt;/em&gt;. I am working on three major projects: one on Kant’s theory of truth, one on the nature of the categories, and one on his attitude toward explanatory regresses. Papers in progres include (please email me for a draft)&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Teaching</title>
       <link>https://damianmv.github.io/teaching/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://damianmv.github.io/teaching/</guid>
-      <description>&lt;h1 id=&#34;paper-writing-guide&#34;&gt;Paper Writing Guide&lt;/h1&gt;
-&lt;p&gt;A guide to writing papers centered around the three step process of (i) reconstructing into standard form, (ii) defending each premise, (iii) objecting to a premise.&lt;/p&gt;
-&lt;p&gt;&lt;a href=&#34;(https://drive.google.com/file/d/1xhvDaIDHgDXWflttcWZ9ZchMT4w6jx3I/view?usp=drive_link&#34; target=&#34;_blank&#34;&gt;&lt;strong&gt;Paper Writing Guide&lt;/strong&gt;&lt;/a&gt;&lt;/p&gt;
-&lt;h1 id=&#34;teaching&#34;&gt;Teaching&lt;/h1&gt;
+      <description>&lt;h2 id=&#34;courses-taught&#34;&gt;Courses Taught&lt;/h2&gt;
 &lt;table&gt;
   &lt;thead&gt;
       &lt;tr&gt;
@@ -652,7 +679,7 @@
       &lt;/tr&gt;
   &lt;/tbody&gt;
 &lt;/table&gt;
-&lt;h1 id=&#34;teaching-assistant&#34;&gt;Teaching Assistant&lt;/h1&gt;
+&lt;h2 id=&#34;teaching-assistant&#34;&gt;Teaching Assistant&lt;/h2&gt;
 &lt;table&gt;
   &lt;thead&gt;
       &lt;tr&gt;
@@ -722,37 +749,9 @@
           &lt;td&gt;Introduction to Philosophy, &lt;em&gt;S. Thomsons&lt;/em&gt;&lt;/td&gt;
       &lt;/tr&gt;
   &lt;/tbody&gt;
-&lt;/table&gt;</description>
-    </item>
-    <item>
-      <title>Resarch</title>
-      <link>https://damianmv.github.io/publications/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://damianmv.github.io/publications/</guid>
-      <description>&lt;style&gt;
-.publication {
-  margin-bottom: 1.5em;
-}
-.pub-title {
-  font-weight: bold;
-}
-.pub-links {
-  font-size: 0.95em;
-  margin-top: 0.2em;
-}
-.pub-links a {
-  text-decoration: none;
-  color: var(--link-color, #0366d6);
-}
-.pub-links a:hover {
-  text-decoration: underline;
-}
-details {
-  margin-top: 0.4em;
-  margin-bottom: 0.4em;
-}
-&lt;/style&gt;
-&lt;p&gt;My research centers on the relationship between truth and explanation in Kant’s &lt;em&gt;Critique of Pure Reason&lt;/em&gt;. I am working on three major projects: one on Kant’s theory of truth, one on the nature of the categories, and one on his attitude toward explanatory regresses. Papers in progres include (please email me for a draft)&lt;/p&gt;</description>
+&lt;/table&gt;
+&lt;h2 id=&#34;paper-writing-guide&#34;&gt;Paper Writing Guide&lt;/h2&gt;
+&lt;p&gt;A guide to writing papers centered around the three step process of (i) reconstructing into standard form, (ii) defending each premise, (iii) objecting to a premise.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
