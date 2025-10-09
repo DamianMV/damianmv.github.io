@@ -1,0 +1,150 @@
+/* ==========================
+   General Body Styles
+   ========================== */
+body {
+  font-family: "Helvetica Neue", Arial, sans-serif;
+  max-width: 800px;
+  margin: 2em auto;
+  padding: 0 1em;
+  line-height: 1.5;
+  color: #333;
+}
+
+/* ==========================
+   Headings
+   ========================== */
+h1, h2, h3 {
+  color: #003366; /* navy */
+  margin-top: 1.5em;
+  border-bottom: 1px solid #ddd;
+  padding-bottom: 0.3em;
+}
+
+h1 {
+  font-size: 2.5em;
+  text-align: left; /* match PDF alignment */
+  border: none;     /* no border below main title */
+}
+
+h2 {
+  font-size: 1.4em;
+}
+
+h3 {
+  font-size: 1.2em;
+}
+
+/* ==========================
+   Links
+   ========================== */
+a {
+  color: #003366;
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+/* ==========================
+   Paragraphs & Divs
+   ========================== */
+p, div {
+  margin: 0.4em 0;
+}
+
+/* ==========================
+   Description Lists (Dates + Entries)
+   ========================== */
+dl {
+  display: grid;
+  grid-template-columns: 8em 1fr; /* date column fixed, content flexible */
+  column-gap: 1em;               /* space between date and content */
+  margin: 0 0 0.8em 0;
+  padding: 0;
+}
+
+dt {
+  margin: 0;
+  padding: 0;
+  font-weight: bold;
+  text-align: left; /* changed from right to left */
+}
+
+dd {
+  margin: 0;
+  padding: 0;
+}
+
+
+/* ==========================
+   Subclass for small caps or section info
+   ========================== */
+.sc {
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+  font-size: 0.95em;
+  color: #555;
+}
+
+/* ==========================
+   Footer
+   ========================== */
+footer {
+  margin-top: 3em;
+  text-align: center;
+  font-size: 0.9em;
+  color: #777;
+}
+
+footer a {
+  color: #777;   /* make footer links neutral */
+  text-decoration: none;
+}
+
+footer a:hover {
+  text-decoration: underline;
+}
+
+
+.publication {
+  margin-bottom: 0.5em;
+}
+
+.pub-title {
+  font-weight: bold;
+}
+
+.pub-links {
+  font-size: 0.95em;
+  margin-top: 0.2em;
+}
+
+.pub-links a {
+  text-decoration: none;
+  color: var(--link-color, #0366d6);
+}
+
+.pub-links a:hover {
+  text-decoration: underline;
+}
+
+details {
+  margin-top: 0.4em;
+  margin-bottom: 1em;   /* space after abstract */
+}
+
+details p {
+  margin: 0;               /* remove extra vertical spacing from p */
+  padding-left: 1.5em;     /* actual visual indent */
+  display: block;           /* ensure padding applies */
+}
+
+.abstract-text {
+  padding-left: 1.5em;   /* indent the text */
+  margin: 0.5em 0;       /* vertical spacing inside the abstract */
+}
+
+.review .pub-title {
+  font-weight: normal !important;
+}
