@@ -58,7 +58,7 @@ p, div {
    ========================== */
 dl {
   display: grid;
-  grid-template-columns: 8em 1fr; /* date column fixed, content flexible */
+  grid-template-columns: minmax(8em, auto) 1fr; /* date column fixed, content flexible */
   column-gap: 1em;               /* space between date and content */
   margin: 0 0 0.8em 0;
   padding: 0;
