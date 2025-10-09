@@ -1,0 +1,12 @@
+/* Reduce base font size site-wide */
+body {
+    font-size: 0.25rem;  /* Adjust this number to taste, e.g., 0.8rem or 0.9rem */
+}
+
+/* Optional: adjust headings proportionally */
+h1 { font-size: 1.5rem; }
+h2 { font-size: 1.25rem; }
+h3 { font-size: 1.1rem; }
+h4 { font-size: 1rem; }
+h5 { font-size: 0.95rem; }
+h6 { font-size: 0.9rem; }
