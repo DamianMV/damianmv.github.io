@@ -67,7 +67,6 @@ dl {
 dt {
   margin: 0;
   padding: 0;
-  font-weight: bold;
   text-align: left; /* changed from right to left */
 }
 
@@ -112,7 +111,6 @@ footer a:hover {
 }
 
 .pub-title {
-  font-weight: bold;
 }
 
 .pub-links {
